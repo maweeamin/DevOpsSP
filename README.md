@@ -1,2 +1,3 @@
 # DevOpsSP
-SharePoint, Office 365, Flow, Microsoft Teams, Power Apps, 
+Salesforce, Salesforce App, Apex Exchange, Salesforce Ligthning, Salesforce Classic 
+Trailhead, Process Builder, Flow
